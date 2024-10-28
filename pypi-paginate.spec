@@ -7,7 +7,7 @@
 #
 Name     : pypi-paginate
 Version  : 0.5.7
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/ec/46/68dde5b6bc00c1296ec6466ab27dddede6aec9af1b99090e1107091b3b84/paginate-0.5.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ec/46/68dde5b6bc00c1296ec6466ab27dddede6aec9af1b99090e1107091b3b84/paginate-0.5.7.tar.gz
 Summary  : Divides large result sets into pages for easier browsing
